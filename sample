@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="html, css, javscript, pyhton">
+	<meta name="author" content="G Vijayprasanth">
+	<meta name="description" content="This is a pubg player fan page">
+	<meta http-equiv="refersh" content="30">
+	<title>PUBG MOBILE FANPAGE.com</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" href="html.png">
+	
+		<h1><font size="18" color="white" face="Bahnschrift Condensed">PLAYERS UNKNOWN BATTLE GROUND MOBILE </font></h1>
+	
+	<right><audio controls src="audio.mp3"></audio></right>
+
+	<style>
+		body{
+			background-image: url("https://wallpaperaccess.com/full/1186818.jpg");
+			background-repeat: "no-repeat";
+			background-attachment:fixed;
+			background-size:cover;
+		}
+	</style>
+	
+</head>
+	
+
+<body link="Yellow" alink="Red">
+	
+	<!--
+		slide
+		alternate
+		scroll
+		up
+		down
+	-->
+	
+	
+	
+
+	<p id='para1'>
+		<font size="10" color="white" face="Bahnschrift"><b>PUBG:</b>Battlegrounds (previously known as PlayerUnknown's Battlegrounds) is a battle royale game developed and published by PUBG Studios, a subsidiary of <font size="12" face="algerian">Krafton</font> .</font></p> 
+			<p><font size="4" color="white" face="Bahnschrift">Which was inspired by the 2000 Japanese film Battle Royale, is based on previous mods created by Brendan <b>"PlayerUnknown"</b> <mark> Greene for other games, and expanded into a standalone game under Greene's creative direction</mark>. 
+				In the game, up to one hundred players parachute onto an island where they scavenge for weapons and equipment to kill other players while avoiding getting killed themselves.
+				 The available safe area of the game's map decreases in size over time, directing surviving players into an ever tightening space to force encounters. The last surviving player (or team) wins the round. It is the first game in the PUBG Universe series.</font></p>
+		<br><br>
+		<font color="white" face="algerian">to refer this content click <em title="click here"> <a href = "https://en.wikipedia.org/wiki/PUBG:_Battlegrounds" target="blank">HERE</a></em></font>
+		<style>
+			#para {background-color: aqua;
+			color: seagreen;}
+		</style>
+	
+	<br>
+	<!--list-->
+	<center><div style="color:black; border: 2px solid white; width: 320px;">
+	<p><font color="white" size="6" face="algerian">TIPS TO ENJOY</font></p>
+    <ul type="square" >
+    	<li><font size="4" color="white" face="Bahnschrift">improve your skills</font></li>
+    	<li><font size="4" color="white" face="Bahnschrift">play well</font></li>
+		<li><font size="4" color="white" face="Bahnschrift">Do drills</font></li>
+    	<li><font size="4" color="white" face="Bahnschrift">Play Team Death Match</font></li>
+    </ul>
+	</div></center>
+	<br><br>
+	<marquee  behavior="alternate" scrollamount="10x" scrolldelay="1" direction="right"><font color="white" face="algerian" 	 			size="35">PUBG</font><img src="https://files.oyebesmartest.com/uploads/simthumbnail/wallpaperbrj.png" alt="joker" width="50" height="50"></marquee>
+	<br>
+	<p><font size="5" color="white" face="Bahnschrift Condensed">Separately, the Seoul-based studio Ginno Games, led by Chang-han Kim and who developed massively multiplayer online games (MMOs) for personal computers, was acquired and renamed Bluehole Ginno Games by Bluehole in January 2015, a major South Korean publisher of MMOs and mobile games.[16][17] Kim recognized that producing a successful game in South Korea generally meant it would be published globally, and wanted to use his team to create a successful title for personal computers that followed the same model as other mobile games published by Bluehole. He had already been excited about making a type of battle royale game after he had played DayZ, in part that the format had not caught on in Korea. He also wanted to make this through an early access model and have a very limited development schedule to get the game out as quickly as possible, while treating the product as a "games as a service" model to be able to support it for many years.[16] In researching what had been done, he came across Greene's mods and reached out to him.[16] In July 2017, Bluehole partnered with social media platform Facebook to provide exclusive streaming content to Facebook's gaming channels, as part of their push to provide more gaming content for its users.[18]</font></p>
+	<!--form-->
+	<center><p><font size="10" color="orange" face="algerian">REGISTER THIS FORM TO GET MORE OFFERS</font></p></center>
+    <center><form action="www.google.com" method="POST" style="border:5px solid gold;width: 500px; background-color: black;">
+		<img src="https://i0.wp.com/www.techjunkie.com/wp-content/uploads/2019/06/wallpaper.jpg?resize=300%2C536&ssl=1" class="avathar" width="10%" height="50%">
+    	<div>
+    		<lable><font size="5" color="white" face="algerian">USER NAME :</font></lable>
+    		<input type="text" name="fname" placeholder="USER NAME" required>
+    	</div>
+    	<br>
+    	<div>
+    		<lable><font size="5" color="white" face="algerian">USER ID :</font></lable>
+    		<input type="number" name="lname" placeholder="USER ID" required>
+    	</div>
+     	<br>
+     	<div>
+    		<lable><font size="5" color="white" face="algerian">ID DATE :</font></lable>
+    		<input type="date" name="pname" required>
+    	</div>
+		<br>
+		<div>
+    		<lable><font size="5" color="white" face="algerian">ENTER YOUR EMAIL :</font></lable>
+    		<input type="email" name="pname" placeholder="ENTER YOUR EMAIL" required>
+    	</div>
+		<br>
+     	<div>
+    		<lable><font size="5" color="white" face="algerian">password :</font></lable>
+    		<input type="password" name="pname" placeholder="password" required>
+    	</div>
+    	<br>
+    	<div>
+    		<label><font size="5" color="white" face="algerian">gender :</font></lable>
+    		<select required> name = "gender"
+    		<option value="male">male</option>
+    		<option value="female">female</option>
+    		<option value="other">other</option>
+    		</select>
+    	</div>
+		<br>
+		<div>
+			<lable><font size="5" color="white" face="algerian">phone number :</font></lable>
+			<input type="number" name="country code" value="+91" maxlength="13">
+		</div>
+    	<div>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="html, css, javscript, pyhton">
+	<meta name="author" content="G Vijayprasanth">
+	<meta name="description" content="This is a pubg player fan page">
+	<meta http-equiv="refersh" content="30">
+	<title>PUBG MOBILE FANPAGE.com</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="icon" href="html.png">
+	
+		<h1><font size="18" color="white" face="Bahnschrift Condensed">PLAYERS UNKNOWN BATTLE GROUND MOBILE </font></h1>
+	
+	<right><audio controls src="audio.mp3"></audio></right>
+
+	<style>
+		body{
+			background-image: url("https://wallpaperaccess.com/full/1186818.jpg");
+			background-repeat: "no-repeat";
+			background-attachment:fixed;
+			background-size:cover;
+		}
+	</style>
+	
+</head>
+	
+
+<body link="Yellow" alink="Red">
+	
+	<!--
+		slide
+		alternate
+		scroll
+		up
+		down
+	-->
+	
+	
+	
+
+	<p id='para1'>
+		<font size="10" color="white" face="Bahnschrift"><b>PUBG:</b>Battlegrounds (previously known as PlayerUnknown's Battlegrounds) is a battle royale game developed and published by PUBG Studios, a subsidiary of <font size="12" face="algerian">Krafton</font> .</font></p> 
+			<p><font size="4" color="white" face="Bahnschrift">Which was inspired by the 2000 Japanese film Battle Royale, is based on previous mods created by Brendan <b>"PlayerUnknown"</b> <mark> Greene for other games, and expanded into a standalone game under Greene's creative direction</mark>. 
+				In the game, up to one hundred players parachute onto an island where they scavenge for weapons and equipment to kill other players while avoiding getting killed themselves.
+				 The available safe area of the game's map decreases in size over time, directing surviving players into an ever tightening space to force encounters. The last surviving player (or team) wins the round. It is the first game in the PUBG Universe series.</font></p>
+		<br><br>
+		<font color="white" face="algerian">to refer this content click <em title="click here"> <a href = "https://en.wikipedia.org/wiki/PUBG:_Battlegrounds" target="blank">HERE</a></em></font>
+		<style>
+			#para {background-color: aqua;
+			color: seagreen;}
+		</style>
+	
+	<br>
+	<!--list-->
+	<center><div style="color:black; border: 2px solid white; width: 320px;">
+	<p><font color="white" size="6" face="algerian">TIPS TO ENJOY</font></p>
+    <ul type="square" >
+    	<li><font size="4" color="white" face="Bahnschrift">improve your skills</font></li>
+    	<li><font size="4" color="white" face="Bahnschrift">play well</font></li>
+		<li><font size="4" color="white" face="Bahnschrift">Do drills</font></li>
+    	<li><font size="4" color="white" face="Bahnschrift">Play Team Death Match</font></li>
+    </ul>
+	</div></center>
+	<br><br>
+	<marquee  behavior="alternate" scrollamount="10x" scrolldelay="1" direction="right"><font color="white" face="algerian" 	 			size="35">PUBG</font><img src="https://files.oyebesmartest.com/uploads/simthumbnail/wallpaperbrj.png" alt="joker" width="50" height="50"></marquee>
+	<br>
+	<p><font size="5" color="white" face="Bahnschrift Condensed">Separately, the Seoul-based studio Ginno Games, led by Chang-han Kim and who developed massively multiplayer online games (MMOs) for personal computers, was acquired and renamed Bluehole Ginno Games by Bluehole in January 2015, a major South Korean publisher of MMOs and mobile games.[16][17] Kim recognized that producing a successful game in South Korea generally meant it would be published globally, and wanted to use his team to create a successful title for personal computers that followed the same model as other mobile games published by Bluehole. He had already been excited about making a type of battle royale game after he had played DayZ, in part that the format had not caught on in Korea. He also wanted to make this through an early access model and have a very limited development schedule to get the game out as quickly as possible, while treating the product as a "games as a service" model to be able to support it for many years.[16] In researching what had been done, he came across Greene's mods and reached out to him.[16] In July 2017, Bluehole partnered with social media platform Facebook to provide exclusive streaming content to Facebook's gaming channels, as part of their push to provide more gaming content for its users.[18]</font></p>
+	<!--form-->
+	<center><p><font size="10" color="orange" face="algerian">REGISTER THIS FORM TO GET MORE OFFERS</font></p></center>
+    <center><form action="www.google.com" method="POST" style="border:5px solid gold;width: 500px; background-color: black;">
+		<img src="https://i0.wp.com/www.techjunkie.com/wp-content/uploads/2019/06/wallpaper.jpg?resize=300%2C536&ssl=1" class="avathar" width="10%" height="50%">
+    	<div>
+    		<lable><font size="5" color="white" face="algerian">USER NAME :</font></lable>
+    		<input type="text" name="fname" placeholder="USER NAME" required>
+    	</div>
+    	<br>
+    	<div>
+    		<lable><font size="5" color="white" face="algerian">USER ID :</font></lable>
+    		<input type="number" name="lname" placeholder="USER ID" required>
+    	</div>
+     	<br>
+     	<div>
+    		<lable><font size="5" color="white" face="algerian">ID DATE :</font></lable>
+    		<input type="date" name="pname" required>
+    	</div>
+		<br>
+		<div>
+    		<lable><font size="5" color="white" face="algerian">ENTER YOUR EMAIL :</font></lable>
+    		<input type="email" name="pname" placeholder="ENTER YOUR EMAIL" required>
+    	</div>
+		<br>
+     	<div>
+    		<lable><font size="5" color="white" face="algerian">password :</font></lable>
+    		<input type="password" name="pname" placeholder="password" required>
+    	</div>
+    	<br>
+    	<div>
+    		<label><font size="5" color="white" face="algerian">gender :</font></lable>
+    		<select required> name = "gender"
+    		<option value="male">male</option>
+    		<option value="female">female</option>
+    		<option value="other">other</option>
+    		</select>
+    	</div>
+		<br>
+		<div>
+			<lable><font size="5" color="white" face="algerian">phone number :</font></lable>
+			<input type="number" name="country code" value="+91" maxlength="13">
+		</div>
+    	<div>
+    		<lable><font size="5" color="white" face="algerian">FEEDBACK ABOUT THIS page :</font></lable>
+			<br>
+    		<textarea rows="5" cols="50">enter your text
+
+			</textarea>
+    	</div>
+		<br>
+		<br>
+		<input type="checkbox" checked="checked"> <font face="Bahnschrift Condensed"color="white">I ACCEPT ALL TERMS AND CONDITIONS</font>
+		<br>
+		<br>
+		<button onclick="message()">Submit</button>
+		<input type="checkbox" checked="checked"> <font face="Bahnschrift Condensed"color="white">Remember me</font>
+		<button type="button" id="cancelbtn" onclick="message2()">cancel</button>
+		
+    </form></center>
+	<br>
+	<p><font size="5" color="white" face="Bahnschrift Condensed">Around the same time that Greene left Sony Online, Kim contacted and offered him the opportunity to work on a new battle royale concept. Within a week, Greene flew out to Bluehole's headquarters in Korea to discuss the options, and a few weeks later, became the creative director of Bluehole. He moved to South Korea to oversee development.[14] According to Greene, this was the first time a Korean game studio had brought aboard a foreigner for a creative director role, and while a risk, he says that his relationship with Bluehole's management is strong, allowing Greene's team to work autonomously with minimal oversight.[6] The game's main musical theme was composed by Tom Salta, who was personally selected by Greene as he and the team were looking for an "orchestral electronic hybrid theme" that would give players a "huge build-up", keeping them "resolutely determined" until a match starts.[19]
+	</font></p>
+	<!--table-->
+	<center><p><font size="8" color="orange" face="algerian">HERE THIS THE SEASON TOP PLAYERS</font></p></center>
+	<center><table border="3px" cellpadding="10px" cellspacing="10px" bordercolor="BLACK">
+		
+		<caption><b><font size="4" color="white" face="Bahnschrift">PLAYER'S UNKNOWN BATTLE GROUND MOBILE</font></b></caption>
+		<head>
+			<tr bgcolor="black">
+			<td colspan="3"><font color="white" face="Bahnschrift">PUBG</font></td>
+		</tr>
+			<tr bgcolor="black">
+				<th><font color="white" face="algerian">USERNAME</font></th>
+				<th><font color="white" face="algerian">ID</font></th>
+				<th><font color="white" face="algerian">RANK</font></th>
+			</tr>
+		</head>
+		<body>
+			<tr bgcolor="black">
+				<td><font color="white" face="Bahnschrift">VIJAY</font></td>
+				<td><font color="white" face="Bahnschrift">789456123</font></td>
+				<td><font color="white" face="Bahnschrift">1</font></td>
+			</tr>
+			<tr bgcolor="black">
+				<td><font color="white" face="Bahnschrift">PREDATOR</font></td>
+				<td><font color="white" face="Bahnschrift">859623147</font></td>
+				<td><font color="white" face="Bahnschrift">2</font></td>
+			</tr>
+			<tr bgcolor="black">
+				<td><font color="white" face="Bahnschrift">BLACK COBRA</font></td>
+				<td><font color="white" face="Bahnschrift">789456321</font></td>
+				<td><font color="white" face="Bahnschrift">3</font></td>
+			</tr>
+			<tr bgcolor="black">
+				<td colspan="2"><font color="white" face="Bahnschrift">THE BEAST</font></td>
+				<td><font color="white" face="Bahnschrift">VIJAY</font></td>
+			</tr>
+		</body>
+		</table></center>
+		<br><br>
+	<p><font size="5" color="white" face="Bahnschrift Condensed">Development began in early 2016 and was publicly announced that June, with plans to have the game ready within a year.[20][21] Kim served as executive producer for the game.[14] Bluehole started with a team of about 35 developers supporting Greene's work, but had expanded to 70 by June 2017.[22] Greene stated that many of these developers were voluntarily putting in longer work hours into the game due to their dedication to the project, and not by any mandate from himself or Bluehole's management.[14][23] In addition to Bluehole, Greene also credits Bohemia Interactive, the developers of ARMA and DayZ, for support with motion capture animations via their Prague studio.[23][22]
+
+		With the rapid growth of interest in the game, Bluehole spun out the entire development for PUBG into Bluehole Ginno Games in September 2017, which was renamed PUBG Corporation with Kim as its chief executive officer. PUBG Corporation continued the development of the game and its marketing and growth, opening an office in the United States with plans for future ones in Europe and Japan.[24] In August 2018, PUBG Corporation launched the "Fix PUBG" campaign, acknowledging that that game by then still had several lingering bugs and other performance issues.[25] The campaign finished in November, with PUBG Corporation calling it a success as everything listed had been implemented by then.[26]</font></p>
+	<center><iframe width="560" height="315" src="https://www.youtube.com/embed/uCd6tbUAy6o" title="YouTube video player" frameborder="20" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border:5px solid black"></iframe></center>
+
+
+	<hr>
+    <br><br>
+	
+	<!--a big para-->
+	<p><font size="5" color="white" face="Bahnschrift Condensed">PUBG is a player versus player shooter game in which up to one hundred players fight in a battle royale, a type of large-scale last man standing deathmatch where players fight to remain the last alive. Players can choose to enter the match solo, duo, or with a small team of up to four people. The last person or team alive wins the match.[1]
+
+		Each match starts with players parachuting from a plane onto one of the eight maps which have different sizes and terrain.[2] The plane's flight path across the map varies with each round, requiring players to quickly determine the best time to eject and parachute to the ground.[1] Players start with no gear beyond customized clothing selections which do not affect gameplay. Once they land, players can search buildings, ghost towns and other sites to find weapons, vehicles, armor, and other equipment. These items are procedurally distributed throughout the map at the start of a match, with certain high-risk zones typically having better equipment.[1] Killed players can be looted to acquire their gear as well.[1] Players can opt to play either from the first-person or third-person perspective, each having their own advantages and disadvantages in combat and situational awareness; though server-specific settings can be used to force all players into one perspective to eliminate some advantages.[3]
+		
+		Every few minutes, the playable area of the map begins to shrink down towards a random location, with any player caught outside the safe area taking damage incrementally, and eventually being eliminated if the safe zone is not entered in time; in game, the players see the boundary as a shimmering blue wall that contracts over time.[4] This results in a more confined map, in turn increasing the chances of encounters.[1] During the course of the match, random regions of the map are highlighted in red and bombed, posing a threat to players who remain in that area.[5] In both cases, players are warned a few minutes before these events, giving them time to relocate to safety.[6] A plane will fly over various parts of the playable map occasionally at random, or wherever a player uses a flare gun, and drop a loot package, containing items which are typically unobtainable during normal gameplay. These packages emit highly visible red smoke, drawing interested players near it and creating further confrontations.[1][7] On average, a full round takes no more than 30 minutes.</font></p>
+	<center><font size="10" color="white" face="algerian" >TO GET PUBG OFFICAL WEBSITE CLICK HERE</font></center>
+	<!-- IMG -->
+    <center><a href="https://www.google.co.in/search?q=pubg&source=hp&ei=buyRY9T3GO7i2roP19KisAQ&iflsig=AJiK0e8AAAAAY5H6ft5Rbzb-wVfZ45rJSCo_fR52HbEx&ved=0ahUKEwjU5p7vler7AhVusVYBHVepCEYQ4dUDCAg&uact=5&oq=pubg&gs_lcp=Cgdnd3Mtd2l6EAMyCAguELEDEIAEMggILhCxAxCABDILCC4QgwEQsQMQgAQyCAguELEDEIAEMgUIABCABDIFCAAQgAQyCAgAEIAEELEDMggIABCABBCxAzIICC4QgAQQsQMyCwguEIAEELEDENQCOg4IABDqAhC0AhDZAhDlAjoICAAQjwEQ6gI6CAguEIAEENQCOgsIABCABBCxAxCDAToICAAQsQMQgwE6BQgAELEDUOoPWNsZYNAiaAFwAHgAgAGGAogBvQWSAQUwLjMuMZgBAKABAbABCg&sclient=gws-wiz" target="_blank"><img src="https://4kwallpapers.com/images/walls/thumbs_3t/2631.jpg" alt="PUBG"  width="800px" height="500px" style="border: 5px solid black;"></a></center>
+    <center><font size="10" color="white" face="algerian"><strike>PLAYERS UNKNOWN BATTLE GROUND MOBILE</strike></font></center>
+	<p><font size="5" color="white" face="Bahnschrift">Battlegrounds, having sold over 75 million copies on personal computers and game consoles as of the end of 2021, is the best-selling video game on PC and Xbox One, and the fifth best-selling video game of all time.
+		 Even more successful is PUBG Mobile's global version, which has accumulated more than 1 billion downloads and grossed over $8.42 billion on mobile devices, making it the fourth highest-grossing mobile game. With the combined revenue of PC and console games equaling $4.65 billion, PUBG: Battlegrounds has a total revenue of $13.07 billion as of May 2022, 
+		 making it one of the highest-grossing video games of all time. The main game has been free-to-play since January 12 2022.
+		<abbr title="players unknown battle ground mobile">PUBG</abbr></font></p>
+	
+	<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UjBACwncDKE" title="YouTube video player" bordercolor="black" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border: 5px solid black;"></iframe></center>
+	<marquee  behavior="alternate" scrollamount="10x" scrolldelay="1" direction="right"><font color="white" face="algerian" size="35">PUBG</font><img src="https://files.oyebesmartest.com/uploads/simthumbnail/wallpaperbrj.png" alt="joker" width="30" height="30"></marquee>
+	
+</body>
+<script src="js.js" type="text/tavascript"></script>
+</html>
